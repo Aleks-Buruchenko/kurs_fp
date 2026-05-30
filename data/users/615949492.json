@@ -1,0 +1,58 @@
+{
+  "semester_start": "2026-02-01",
+  "lessons": [
+    {
+      "subject": "Базы данных",
+      "weekday": 1,
+      "start": "10:40",
+      "end": "12:10",
+      "room": "205",
+      "teacher": "Петров П.П.",
+      "lesson_type": "практика",
+      "week": "even"
+    },
+    {
+      "subject": "Алгоритмы и структуры данных",
+      "weekday": 2,
+      "start": "12:20",
+      "end": "13:50",
+      "room": "102",
+      "teacher": "Сидоров С.С.",
+      "lesson_type": "лекция",
+      "week": "odd"
+    },
+    {
+      "subject": "Математика",
+      "weekday": 3,
+      "start": "09:00",
+      "end": "10:30",
+      "room": "303",
+      "teacher": "Кузнецова А.А.",
+      "lesson_type": "лекция",
+      "week": "both"
+    },
+    {
+      "subject": "Программирование на Python",
+      "weekday": 4,
+      "start": "11:00",
+      "end": "12:30",
+      "room": "101",
+      "teacher": "Лебедев Д.Д.",
+      "lesson_type": "практика",
+      "week": "both"
+    }
+  ],
+  "tasks": [
+    {
+      "subject": "Функциональное программирование",
+      "title": "Курсовой проект — Telegram-бот",
+      "due": "2026-05-25"
+    },
+    {
+      "subject": "ФП",
+      "title": "Курсач",
+      "due": "2026-06-27"
+    }
+  ],
+  "group_id": "23-ПО-2"
+}
